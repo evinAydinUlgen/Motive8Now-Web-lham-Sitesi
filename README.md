@@ -238,11 +238,11 @@ Proje geliştirme sürecinde sizin gibi yazılımcıların, yatırımcıların v
 
 ### Yeni Özellikler Eklemek
 
-Projeye yeni özellikler eklemek için [GitHub Pull Request](link) gönderebilirsiniz. Özellik eklemesi yapmadan önce, projeyle ilgili bir sorun bildiriminde bulunarak önerinizi tartışabilirsiniz. Daha sonra, geliştirdiğiniz özellikleri projeye eklemek için bir Pull Request açabilirsiniz.
+Projeye yeni özellikler eklemek için [GitHub Pull Request](https://github.com/evinAydinUlgen/Motive8Now-Web-lham-Sitesi/pulls) gönderebilirsiniz. Özellik eklemesi yapmadan önce, projeyle ilgili bir sorun bildiriminde bulunarak önerinizi tartışabilirsiniz. Daha sonra, geliştirdiğiniz özellikleri projeye eklemek için bir Pull Request açabilirsiniz.
 
 ### Hata Düzeltmek
 
-Projede tespit ettiğiniz hataları düzeltmek için [GitHub Issue](lhttps://github.com/Grup8-Motive8Now/Motive8Now-Web-lham-Sitesi/issuesink) sayfasına göz atabilirsiniz. Mevcut sorunları inceleyerek, düzeltme için bir Pull Request oluşturabilirsiniz. Hata düzeltmeleri projenin kalitesini artıracak ve kullanıcı deneyimini iyileştirecektir.
+Projede tespit ettiğiniz hataları düzeltmek için [GitHub Issue](https://github.com/Grup8-Motive8Now/Motive8Now-Web-lham-Sitesi/issues) sayfasına göz atabilirsiniz. Mevcut sorunları inceleyerek, düzeltme için bir Pull Request oluşturabilirsiniz. Hata düzeltmeleri projenin kalitesini artıracak ve kullanıcı deneyimini iyileştirecektir.
 
 
 Projemize katkıda bulunmak isteyen herkesi bekliyoruz! İster kod geliştirerek, ister hata bildirimi yaparak, ister dokümantasyon geliştirerek destek verebilirsiniz. Katkılarınız projemizin başarısını daha da ileri taşımamıza yardımcı olacak.
